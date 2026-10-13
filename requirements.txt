@@ -6,3 +6,5 @@ joblib
 jinja2
 pandas
 numpy
+xgboost
+python-multipart
